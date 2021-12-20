@@ -1,4 +1,4 @@
-# IntergraltyAnimationOne
+# AnimationOne
 
 Coming soon on January 22, 2022.
 
