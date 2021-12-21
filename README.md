@@ -2,7 +2,7 @@
 # AnimationOne (Sunlight One)
 ![AnimationOne](https://github.com/Magayaga/AnimationOne/blob/Sunlight_One/AnimationOne-background.png)
 
-Wait for HTML, CSS, JAVASCRIPT is partnerships, the Intergralty MaterialOne is first design language software in the Philippines, **Google Material Design** like Intergralty MaterialOne or "Mo"is the website editors, web development tool, HTML editor, and many more. Intergralty AnimationOne**successor of Intergralty MaterialOne**.
+AnimationOne is the website-based design language software developed by Intergralty Platforms, Inc. The Intergralty MaterialOne is a first largest design language software in the Philippines, the **Cyril John Magayaga** is best known for creator of Intergralty AnimationOne. On 20 December 2021, **Intergralty AnimationOne** is a successor of **Intergralty MaterialOne** like versions. On 21 December 2021, after 3 months later, Intergralty Artificial intelligence (Intergralty AI) and Intergralty AnimationOne is graphics, fonts, and more applications.
 
 Version (v1.1.5-present)
 
@@ -12,8 +12,8 @@ Today:
 Upcoming Date:
 
 Upcoming Releases: **Sunlight One Updates (Part II)**
-> * **1.1.6** - Second Version of Intergralty AnimationOne (also known as **Intergralty Merry Christmas 2021 Updates** (December 24, 2021).
-> * **1.2.0** - Third Version of Intergralty AnimationOne (also known as **Intergralty Rizal Day Updates** (December 30, 2021).
-> * **1.2.1** - Fourth Version of Intergralty AnimationOne (also known as **Intergralty New Years Updates** (December 31, 2021).
-> * **1.2.2** - Fifth Version of Intergralty AnimationOne (also known as **Intergralty 18th Anniversary of Facebook Updates** (January 4, 2022).
-> * **1.3.0** - Sixth Version of Intergralty AnimationOne (also known as **Intergralty Event 2021 Updates** (January 7, 2022).
+* **1.1.6** - Second Version of Intergralty AnimationOne (also known as **Intergralty Merry Christmas 2021 Updates** (December 24, 2021).
+* **1.2.0** - Third Version of Intergralty AnimationOne (also known as **Intergralty Rizal Day Updates** (December 30, 2021).
+* **1.2.1** - Fourth Version of Intergralty AnimationOne (also known as **Intergralty New Years Updates** (December 31, 2021).
+* **1.2.2** - Fifth Version of Intergralty AnimationOne (also known as **Intergralty 18th Anniversary of Facebook Updates** (January 4, 2022).
+* **1.3.0** - Sixth Version of Intergralty AnimationOne (also known as **Intergralty Event 2021 Updates** (January 7, 2022).
