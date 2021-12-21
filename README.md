@@ -1,5 +1,6 @@
 [![Feature Requests](https://img.shields.io/github/issues/Intergralty/IntergraltyMaterialOne)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 # AnimationOne (Sunlight One)
+![AnimationOne](https://github.com/Magayaga/AnimationOne/blob/Sunlight_One/AnimationOne-background.png)
 
 Wait for HTML, CSS, JAVASCRIPT is partnerships, the Intergralty MaterialOne is first design language software in the Philippines, **Google Material Design** like Intergralty MaterialOne or "Mo"is the website editors, web development tool, HTML editor, and many more. Intergralty AnimationOne**successor of Intergralty MaterialOne**.
 
