@@ -5,7 +5,7 @@ Wait for HTML, CSS, JAVASCRIPT is partnerships, the Intergralty MaterialOne is f
 Version
 (1.0.0-1.1.4) Fate: Merger to **Intergralty MaterialOne**.
 
-## Version of IntergraltyMaterialOne's Sunlight
+## Version of Intergralty MaterialOne's Sunlight
 
 * Intergraty MaterialOne is design language software developed by **Intergralty Platforms, Inc.**, like the programming language is HTML, CSS Javascript, C++, Python, Hack, PHP, and many programming language.
 
@@ -21,5 +21,10 @@ Version
 > * 1.1.1 (December 10, 2021) - First Snow in the December 2021 Updates
 > * 1.1.2 (December 12, 2021) - Second Snow in the December 2021 Updates
 > * 1.1.3 (December 15, 2021) - Third Snow in the December 2021 Updates
+> * 1.1.4 (December 20, 2021) - Fourth Snow in the December 2021 Updates; The **Intergralty Events 2021** is December 21, 2021, the documents.
 
-> **1.1.4 (December 20, 2021)** - Fourth Snow in the December 2021 Updates; The **Intergralty Events 2021** is December 21, 2021, the documents.
+### Current of Intergralty MaterialOne's Sunlight
+> * 1.1.5 (December 22, 2021) - First Merry Christmas 2021 Updates
+> * 1.1.6 (December 23, 2021) - Second Merry Christmas 2021 Updates
+> * 1.1.7 (December 25, 2021) - Third Merry Christmas 2021 Updates
+> * 1.1.8 (December 26, 2021) - Worldwide Merry Christmas 2021 Updates
