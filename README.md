@@ -1,4 +1,3 @@
-[![Feature Requests](https://img.shields.io/github/issues/Intergralty/IntergraltyMaterialOne)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 # AnimationOne (Sunlight One)
 ![AnimationOne](https://github.com/Magayaga/AnimationOne/blob/Sunlight_One/AnimationOne-background.png)
 
