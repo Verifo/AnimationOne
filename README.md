@@ -18,10 +18,8 @@ Today:
 * **1.1.6** - Second Version of Intergralty AnimationOne (also known as **Intergralty Merry Christmas 2021 Updates** (December 24, 2021).
 * **1.2.0** - Third Version of Intergralty AnimationOne (also known as **Intergralty Rizal Day Updates** (December 30, 2021).
 * **1.2.1** - Fourth Version of Intergralty AnimationOne (also known as **Intergralty New Year 2022 Updates** (December 31, 2021).
+* **1.2.2** - Fifth Version of Intergralty AnimationOne (also known as **Intergralty 18th Anniversary of Facebook Updates** (January 4, 2022).
 Upcoming Date:
 
 Upcoming Releases: **Sunlight One Updates (Part II)**
-* **1.2.2** - Fifth Version of Intergralty AnimationOne (also known as **Intergralty 18th Anniversary of Facebook Updates** (January 4, 2022). (**Tomorrow**)
-* **1.3.0** - Sixth Version of Intergralty AnimationOne (also known as **Intergralty Event 2022 Updates** (January 7, 2022).
-* **1.3.1** - Seventh Version of Intergralty AnimationOne (also known as **Intergralty Chinese New Year 2022 Updates** (January 31, 2022).
-* **1.3.2** - Eighth Version of Intergralty AnimationOne (also known as **Intergralty One Updates** (February 5, 2022).
+* **1.3.0** - Sixth Version of Intergralty AnimationOne (also known as **Intergralty Chinese 2022 Updates** (January 31, 2022).
