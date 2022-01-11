@@ -11,7 +11,7 @@
 Available on **Sunlight One Updates (Part II)** or **v1.1.6** in download the packages!
 
 ## Version of AnimationOne
-Version (v1.1.5-present); MaterialOne (v1.0.0-1.1.4)
+Version (v1.1.5-present); [MaterialOne](https://github.com/Intergralty/MaterialOne) (v1.0.0-present)
 
 Today: 
 * **1.1.5** - First Version of Intergralty AnimationOne (also known as **Intergralty Winter 2021 Updates**. (December 20, 2021).
