@@ -11,5 +11,5 @@ Version
 
 | Versions | Product Name | Dates |
 |:-:|:-:|:-:|
-| 1.0.0-1.0.2 | MaterialOne | November 2, 2021 - November 14, 2021 |
-| 1.0.3-present | MaterialOne | November 14, 2021 - present |
+| 1.0.0-1.0.2 | MaterialOne (Google and Samsung) | November 2, 2021 - November 14, 2021 |
+| 1.0.3-present | MaterialOne (Sunlight) | November 14, 2021 - present |
