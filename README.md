@@ -22,4 +22,4 @@ Today:
 Upcoming Date:
 
 Upcoming Releases: **Sunlight One Updates (Part II)**
-* **1.3.0** - Sixth Version of Intergralty AnimationOne (also known as **Intergralty Chinese 2022 Updates** (January 31, 2022).
+* **1.3.0** - Sixth Version of Intergralty AnimationOne (also known as **Intergralty Chinese 2022 Updates** (January 31, 2022) Replayed by February 1, 2022.
