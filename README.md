@@ -22,4 +22,4 @@ Today:
 * **1.3.0** - Sixth Version of Intergralty AnimationOne (also known as **Intergralty Lunar New Year 2022 Updates** (January 31, 2022) Replayed by February 1, 2022.
 Upcoming Date:
 
-* **1.3.1** - Seventh Version of Intergralty AnimationOne (also known as **Intergralty Worldwide Updates** (March 1, 2022)
+* **1.3.1** - Seventh Version of Intergralty AnimationOne (also known as **Intergralty World Sleep Day** (March 18, 2022)
