@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Copy Text From Input Field</title>
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <input type="text" id="text-1" value="Some text to be copied" />
+      <button onclick="copy('text-1')">Copy Text</button>
+    </div>
+    <div class="container">
+      <input type="text" id="text-2" value="Here is another text" />
+      <button onclick="copy('text-2')">Copy Text</button>
+    </div>
+    <!-- Script -->
+    <script src="script.js"></script>
+  </body>
+</html>
