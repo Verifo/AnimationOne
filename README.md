@@ -23,3 +23,4 @@ Today:
 Upcoming Date:
 
 * **1.3.1** - Seventh Version of Intergralty AnimationOne (also known as **Intergralty World Sleep Day** (March 18, 2022)
+* **1.3.2** - Eighth Version of Intergralty AnimationOne (also known as **Happy EqualDay of MaterialOne** (March 30, 2022).
