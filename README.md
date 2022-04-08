@@ -5,10 +5,6 @@
 
 On March 30, 2022, Philippines' largest and hundreds of web-based design language service developed by **Intergralty Corporation**.
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Chrome_icon_%28September_2014%29.svg" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Opera_2015_icon.svg" alt="IE" width="16px" height="16px" /> Opera | <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://upload.wikimedia.org/wikipedia/en/7/71/Safari_14_icon.png" alt="Safari" width="20px" height="20px" /> Safari | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" alt="Firefox" width="16px" height="16px" /> Firefox |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                               Yes (Microsoft Windows and macOS)                                                                                |                                                                                   Yes (Microsoft Windows and macOS)                                                                                   |                                                                             Yes (Microsoft Windows and macOS)                                                                              |                                                                               Yes (Microsoft Windows and macOS)                                                                                |                                                                                Yes (Microsoft Windows and macOS)                                                                                 | 
-
 ## Intergralty Muse
 Available on **Sunlight One Updates (Part II)** or **v1.1.6** in download the packages!
 
@@ -22,8 +18,6 @@ Today:
 * **1.2.1** - Fourth Version of Intergralty AnimationOne (also known as **Intergralty New Year 2022 Updates** (December 31, 2021).
 * **1.2.2** - Fifth Version of Intergralty AnimationOne (also known as **Intergralty 18th Anniversary of Facebook Updates** (January 4, 2022).
 * **1.3.0** - Sixth Version of Intergralty AnimationOne (also known as **Intergralty Lunar New Year 2022 Updates** (January 31, 2022) Replayed by February 1, 2022.
-Upcoming Date:
-
 * **1.3.1** - Seventh Version of Intergralty AnimationOne (also known as **Intergralty World Sleep Day** (March 18, 2022)
 * **1.3.2** - Eighth Version of Intergralty AnimationOne (also known as **Happy EqualDay of MaterialOne** (March 30, 2022).
 * **1.4.0** - Ninth Version of Intergralty AnimationOne (also known as **Intergralty 47th Anniversary of Microsoft** (April 5, 2022)
