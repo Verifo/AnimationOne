@@ -27,3 +27,4 @@ Upcoming Date:
 * **1.3.1** - Seventh Version of Intergralty AnimationOne (also known as **Intergralty World Sleep Day** (March 18, 2022)
 * **1.3.2** - Eighth Version of Intergralty AnimationOne (also known as **Happy EqualDay of MaterialOne** (March 30, 2022).
 * **1.4.0** - Ninth Version of Intergralty AnimationOne (also known as **Intergralty 47th Anniversary of Microsoft** (April 5, 2022)
+* **1.4.1** - Tenth Version of Intergralty AnimationOne (also known as **Intergralty April's Technology companies** (April 8, 2022)
