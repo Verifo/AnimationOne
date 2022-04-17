@@ -22,3 +22,4 @@ Today:
 * **1.3.2** - Eighth Version of Intergralty AnimationOne (also known as **Happy EqualDay of MaterialOne** (March 30, 2022).
 * **1.4.0** - Ninth Version of Intergralty AnimationOne (also known as **Intergralty 47th Anniversary of Microsoft** (April 5, 2022)
 * **1.4.1** - Tenth Version of Intergralty AnimationOne (also known as **Intergralty April's Technology companies** (April 8, 2022)
+* **1.4.2** - 11th Version of Intergralty AnimationOne (also known as **Intergralty Easter Sunday** (April 17, 2022)
