@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #3168ff;
+}
+.container {
+  width: 400px;
+  height: 600px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+  background: url(sprite-sheet.png);
+  /*Steps should be equal to number of frames*/
+  animation: kick 0.5s steps(6) infinite;
+}
+@keyframes kick {
+  0% {
+    background-position: 0 0;
+  }
+  /* Use height of image here as y position */
+  100% {
+    background-position: 0 -3600px;
+  }
+}
